@@ -1,3 +1,11 @@
-# ML_Financial_Distress_Prediction_Project
+# Automated Financial Distress Predictor
+
+Credit scoring algorithms, which guess the probability of default, are the methods banks use to determine whether or not a loan should be granted. This model helps to improve the state of the art in credit scoring by predicting that someone will experience financial distress in the next two years.
+
+The models will help in determining which features banks majorly use to decide when to give loan and when not to.
+
+We took our dataset from Kaggle we have the data of 251503 people, which was divided into training, test and validation dataset.
+
+We created a hybrid model using Random Forest, Logistic Regression, AdaBoosting, MultiLayer Perceptron and trained each of these models on our dataset and used maximum voting technique to obtain the final predictions.
 
 https://github.com/Sourav20341/ML_Financial_Distress_Predidiction_Project/blob/main/ML_Project_Progress_Report.pdf
